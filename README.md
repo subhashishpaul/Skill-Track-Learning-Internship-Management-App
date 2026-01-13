@@ -1,16 +1,32 @@
-# flutter_application_1
 
-A new Flutter project.
+Skill Track– Learning & Internship Management App
 
-## Getting Started
+Skill Track is a mobile application designed to help learners
+discover, enroll in, and track skill-based programs or internships,
+while allowing admins to manage programs, users, and progress
+efficiently. The app bridges the gap between learners and
+structured learning opportunities.
+Target Users
+1. Learners (Students / Interns)
 
-This project is a starting point for a Flutter application.
+University students,
+Fresh graduates,
+Skill learners.
 
-A few resources to get you started if this is your first Flutter project:
+Learner Goals:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Browse available programs,
+Enroll in programs,
+Track learning progress,
+View profile and achievements.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Admins (Managers / Mentors)
+Program managers,
+Internship coordinators.
+
+Admin Goals:
+
+Create and manage programs,
+View learner enrollments,
+Monitor learner progress,
+Update program details.
